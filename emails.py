@@ -23,7 +23,7 @@ import sys
 # ==============================================================================
 
 GMAIL_USER        = "juancarmona721@gmail.com"       # Tu dirección Gmail
-GMAIL_APP_PASSWORD = "ngxxethrswkxlucw"       # App Password de Google (16 chars)
+GMAIL_APP_PASSWORD = "ngcw"       # App Password de Google (16 chars)
 SENDER_NAME       = "Gracar Solutions"              # Nombre visible del remitente
 CSV_FILE          = "psicologosRonda1.csv"               # Ruta al archivo CSV
 MAX_EMAILS        = 1                            # Máximo de correos por ejecución
@@ -33,7 +33,7 @@ DRY_RUN           = False                        # True = simula sin enviar
 SUBJECT           = "Optimiza tu agenda y reduce inasistencias" # [Asunto - Cambiar si lo deseas]
 YOUR_NAME         = "Juan Esteban Carmona"
 COMPANY_NAME      = "Gracar Solutions"
-WHATSAPP_NUMBER   = "3054671608"
+WHATSAPP_NUMBER   = "30608"
 
 # ==============================================================================
 # PLANTILLA HTML DEL CORREO
